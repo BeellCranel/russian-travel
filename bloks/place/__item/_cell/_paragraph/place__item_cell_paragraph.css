@@ -1,0 +1,5 @@
+.place__item_cell_paragraph {
+  display: grid;
+  align-content: start;
+  row-gap: 27px;
+}
