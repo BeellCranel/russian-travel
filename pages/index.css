@@ -40,3 +40,11 @@
 @import url(../bloks/intro/__list/intro__list.css);
 
 @import url(../bloks/intro/__list-item/intro__list-item.css);
+
+
+/* photo-grid */
+
+
+@import url(../bloks/photo-grid/photo-grid.css);
+
+@import url(../bloks/photo-grid/__photo/photo-grid__photo.css);
