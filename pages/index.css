@@ -9,11 +9,18 @@
 
 @import url(../bloks/header/header.css);
 
-@import url(../bloks/logo/logo.css);
+@import url(../bloks/header/__logo/header__logo.css);
 
 @import url(../bloks/header/__lang-links/header__lang-links.css);
 
 @import url(../bloks/header/__lang-link/header__lang-link.css);
+
+@import url(../bloks/header/__lang-link/_stance/header__lang-link_stance_active.css);
+
+/* content */
+
+
+@import url(../bloks/content/content.css);
 
 /* lead */
 
@@ -76,3 +83,9 @@
 
 
 @import url(../bloks/cover/cover.css);
+
+@import url(../bloks/cover/__link/cover__link.css);
+
+@import url(../bloks/cover/__title/cover__title.css);
+
+@import url(../bloks/cover/__subtitle/cover__subtitle.css);
