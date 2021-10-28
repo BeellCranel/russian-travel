@@ -1,3 +1,5 @@
 .header__lang-link_stance_active {
   text-decoration: underline;
+  pointer-events: none;
+  cursor: default;
 }

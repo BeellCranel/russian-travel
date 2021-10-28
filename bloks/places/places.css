@@ -17,20 +17,20 @@
 @media screen and (max-width: 1023px) {
   .places {
     max-width: 720px;
-    padding: 88px 0 90px;
+    padding: 88px 24px 90px;
     gap: 73px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 603px) {
   .places {
-    margin: 0 16px;
+    padding: 88px 0 90px;
+    margin: 0;
   }
 }
-@media screen and (max-width: 441px) {
+@media screen and (max-width: 425px) {
   .places {
     padding: 64px 0 66px;
-    margin: 0;
     gap: 50px;
   }
 }

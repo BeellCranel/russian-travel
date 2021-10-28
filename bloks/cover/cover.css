@@ -1,10 +1,17 @@
 .cover {
-  width: 100vw;
-  height: 62.5vw;
+  display: grid;
+  width: 100%;
   max-width: 1184px;
-  max-height: 740px;
   margin: 0 auto;
   background-image: url(../../images/cover/cover-trains.jpg);
   background-size: cover;
   background-position: center;
+}
+
+.cover::before {
+  display: block;
+  content: '';
+  grid-column: 1 / -1;
+  grid-row: 1 / -1;
+  padding-top: 62.5%;
 }
