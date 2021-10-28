@@ -1,5 +1,4 @@
 .lead__image-caption {
-  margin: 8px 0 0;
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
@@ -7,4 +6,16 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   align-self: flex-start;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__image-caption {
+    margin: 0 24px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .lead__image-caption {
+    margin: 0 16px;
+  }
 }

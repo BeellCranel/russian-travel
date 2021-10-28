@@ -16,7 +16,7 @@
   color: #fff;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 424px) {
   .page {
     padding: 16px 0 24px;
   }
