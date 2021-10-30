@@ -2,7 +2,7 @@
   max-width: 984px;
   display: grid;
   grid-template-columns: 1fr;
-  grid-auto-rows: 1fr;
+  grid-auto-rows: min-content;
   gap: 80px;
   margin: 0 auto;
   padding: 92px 0;
