@@ -28,7 +28,7 @@
 
 * [ссылка на мою работу в Github Pages](https://beellcranel.github.io/another-russian-travel/)
 
-### Статус:
+### Статус
 
 Завершен
 
