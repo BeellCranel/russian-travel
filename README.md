@@ -26,7 +26,7 @@
 
 ### Github Pages
 
-* [ссылка на мою работу в Github Pages](https://beellcranel.github.io/another-russian-travel/)
+* [ссылка на мою работу в Github Pages](https://beellcranel.github.io/russian-travel/)
 
 ### Статус
 
